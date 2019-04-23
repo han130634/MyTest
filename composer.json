@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Bookshelf\\": "app/src/Bookshelf",
+            "middleware\\": "app/middleware",
+            "utils\\": "app/utils"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
