@@ -1,6 +1,6 @@
-# MyTest 学习slimphp框架  学习备注，经实操验证可用，可作为slim入门参照；
+# MyTest slimphp框架学习备注，经实操验证可用，可作为slim参照；
 
-SlimPhp使用路由管理页面的访问，Slim本身并没有MVC模式，但是我们可以通过Controller来实现MVC的效果，因为我们的目标是编写接口，所以现在我们不考虑View层,只解决MC。
+SlimPhp使用路由管理页面的访问，Slim本身并没有MVC模式，但是我们可以通过Controller来实现MVC的效果，因为我们的目标是编写接口，所以现在我们不考虑View层,只解决MC。后期可以根据自己需要添加必要的依赖组件来满足自身业务的需求。
 推荐查看akrabat的简单Slim项目理解Slim的运行逻辑Glihub地址:Slim-Bookshelf，slim-bookshelf-api，slim-bookshelf-web
 
 本内容文件结构
